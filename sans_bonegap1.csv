@@ -1,0 +1,10 @@
+0,CombatZoneResizeInstant,121,276,526,391,,,
+0,HeartMode,1,,,,,,
+0,HeartTeleport,320,376,,,,,
+0,BoneVRepeat,24,346,50,0,90,50,100
+0,BoneVRepeat,44,280,30,0,150,100,50
+0,BoneVRepeat,566,356,50,2,140,160,120
+10,,,,,,,,
+0,heartmode,0,,,,,,
+0,BoneVRepeat,24,300,90,0,300,50,10
+2.5,endattack,,,,,,,
