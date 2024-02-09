@@ -1,6 +1,6 @@
 0,CombatZoneResize,241,226,406,391,,,,
 0,HeartTelePort,325,308,,,,,,
-0,DamagePlayer,,,,,,,,
+0,DamagePlayer,1,,,,,,,,
 0,SansHead,wink,,,,,,,
 1,,,,,,,,,
 0,BoneStab,3,10,0.0001,99,,,,
